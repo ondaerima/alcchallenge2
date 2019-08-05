@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328066280449",
+    "firebase_url": "https://erimatravel.firebaseio.com",
+    "project_id": "erimatravel",
+    "storage_bucket": "erimatravel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328066280449:android:faab53aaea5ee2fb",
+        "android_client_info": {
+          "package_name": "com.example.erimatravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328066280449-0ukhfa6u3c5i3ig2nqni6urnhjdnuglc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.erimatravel",
+            "certificate_hash": "8e7c1b47854b74061c28ac4874b6580562e4ea28"
+          }
+        },
+        {
+          "client_id": "328066280449-3m25p16g0j0svs74l585vao5p4fkd41k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeBbRj1XVUwsBAHo7eYl4gHf4SK0f81iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328066280449-3m25p16g0j0svs74l585vao5p4fkd41k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
